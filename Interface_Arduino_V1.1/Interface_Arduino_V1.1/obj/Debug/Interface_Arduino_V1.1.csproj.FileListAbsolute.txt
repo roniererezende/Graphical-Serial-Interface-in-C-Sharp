@@ -1,0 +1,10 @@
+C:\Users\Roniere Resende\Documents\Meus Documentos\Estudo de Tecnologias\C# Language Programming\Projects\Interface_Arduino_V1.1\Interface_Arduino_V1.1\bin\Debug\Interface_Arduino_V1.1.exe.config
+C:\Users\Roniere Resende\Documents\Meus Documentos\Estudo de Tecnologias\C# Language Programming\Projects\Interface_Arduino_V1.1\Interface_Arduino_V1.1\bin\Debug\Interface_Arduino_V1.1.exe
+C:\Users\Roniere Resende\Documents\Meus Documentos\Estudo de Tecnologias\C# Language Programming\Projects\Interface_Arduino_V1.1\Interface_Arduino_V1.1\bin\Debug\Interface_Arduino_V1.1.pdb
+C:\Users\Roniere Resende\Documents\Meus Documentos\Estudo de Tecnologias\C# Language Programming\Projects\Interface_Arduino_V1.1\Interface_Arduino_V1.1\obj\Debug\Interface_Arduino_V1._1.frmInterfaceSerial.resources
+C:\Users\Roniere Resende\Documents\Meus Documentos\Estudo de Tecnologias\C# Language Programming\Projects\Interface_Arduino_V1.1\Interface_Arduino_V1.1\obj\Debug\Interface_Arduino_V1._1.Properties.Resources.resources
+C:\Users\Roniere Resende\Documents\Meus Documentos\Estudo de Tecnologias\C# Language Programming\Projects\Interface_Arduino_V1.1\Interface_Arduino_V1.1\obj\Debug\Interface_Arduino_V1.1.csproj.GenerateResource.cache
+C:\Users\Roniere Resende\Documents\Meus Documentos\Estudo de Tecnologias\C# Language Programming\Projects\Interface_Arduino_V1.1\Interface_Arduino_V1.1\obj\Debug\Interface_Arduino_V1.1.csproj.CoreCompileInputs.cache
+C:\Users\Roniere Resende\Documents\Meus Documentos\Estudo de Tecnologias\C# Language Programming\Projects\Interface_Arduino_V1.1\Interface_Arduino_V1.1\obj\Debug\Interface_Arduino_V1.1.exe
+C:\Users\Roniere Resende\Documents\Meus Documentos\Estudo de Tecnologias\C# Language Programming\Projects\Interface_Arduino_V1.1\Interface_Arduino_V1.1\obj\Debug\Interface_Arduino_V1.1.pdb
+C:\Users\Roniere Resende\Documents\Meus Documentos\Estudo de Tecnologias\C# Language Programming\Projects\Interface_Arduino_V1.1\Interface_Arduino_V1.1\obj\Debug\Interface_Arduino_V1.1.csprojAssemblyReference.cache
